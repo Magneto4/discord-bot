@@ -351,4 +351,4 @@ async def on_message(message):
     tupper = True
     tup_name = message.author.name
 
-bot.run("ODYzODE0ODkwMzU1Mjk0MjMw.YOsYTg.tie3LeaHc_mArggvEsHGhF8iBno")
+bot.run("ODYzODE0ODkwMzU1Mjk0MjMw.YOsYTg.tie3LeaHc_mArggvEsHGhF8iBno") #token not active
